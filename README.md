@@ -1,6 +1,6 @@
 # merge-solo
-Spring 
-is
-the
-best 
-season
+Spring  
+is  
+the  
+best   
+season  
