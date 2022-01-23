@@ -1,8 +1,8 @@
 # merge-solo
 They    
 think  
-cookies and cream  
+Vanilla  
 is  
 the  
-second best   
+second best 
 ice cream  
