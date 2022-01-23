@@ -1,7 +1,7 @@
 # merge-solo
 We  
 think  
-Vanilla
+Vanilla  
 is  
 the  
 second best 
