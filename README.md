@@ -1,6 +1,6 @@
 # merge-solo
 We  
-thinks  
+think  
 cookies and cream  
 is  
 the  
