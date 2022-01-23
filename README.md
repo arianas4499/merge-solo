@@ -1,6 +1,8 @@
 # merge-solo
-Spring  
+She  
+thinks  
+cookies and cream  
 is  
 the  
-best   
-season  
+best  
+ice cream  
