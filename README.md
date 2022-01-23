@@ -1,8 +1,8 @@
 # merge-solo
-We  
+They    
 think  
 cookies and cream  
 is  
 the  
-second best 
+second best   
 ice cream  
