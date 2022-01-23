@@ -1,7 +1,7 @@
 # merge-solo
 We  
 think  
-cookies and cream  
+Vanilla
 is  
 the  
 second best 
